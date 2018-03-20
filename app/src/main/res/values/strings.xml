@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">ParcialGabrielMontezumaI024114</string>
+    <string name="vista">Vista</string>
+    <string name="puntuacion">Puntuacion</string>
+    <string name="popularidad">Popularidad</string>
+    <string name="diciembre_20_2018">Diciembre 20, 2018</string>
+    <string name="fecha_de_lanzamiento">Fecha de lanzamiento</string>
+    <string name="director">Director</string>
+    <string name="abraham_gooner">Abraham Gooner</string>
+    <string name="tiempo">Tiempo</string>
+    <string name="_1_hora_34_minutos">1 hora 34 minutos</string>
+    <string name="puntuacion">Puntuacion</string>
 </resources>
