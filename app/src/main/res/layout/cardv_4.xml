@@ -114,13 +114,13 @@
                     android:text="@string/puntuacion"
                     android:textStyle="bold"
                     android:textColor="@android:color/black"
-                    android:layout_marginLeft="50dp"
+                    android:layout_marginLeft="70dp"
                     />
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="346 criticas"
-                    android:layout_marginLeft="40dp"
+                    android:layout_marginLeft="60dp"
                     />
 
             </LinearLayout>

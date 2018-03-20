@@ -28,6 +28,7 @@
             android:layout_width="match_parent"
             android:layout_height="90dp"
 
+
             >
 
 
@@ -51,6 +52,7 @@
                 android:layout_toRightOf="@id/star"
                 android:layout_marginTop="50dp"
                 android:layout_marginLeft="5dp"
+                android:background="@drawable/border"
 
                 />
 
@@ -78,7 +80,7 @@
                 android:layout_height="wrap_content"
                 android:text="No solo sobrevivio 500 años, sino que tambien ingreso"
                 android:textSize="11dp"
-
+                android:background="@drawable/border"
                 android:textStyle="bold"
                 android:layout_toRightOf="@id/star2"
                 android:layout_marginTop="50dp"
@@ -111,7 +113,7 @@
                 android:layout_height="wrap_content"
                 android:text="No solo sobrevivio 500 años, sino que tambien ingreso"
                 android:textSize="11dp"
-
+                android:background="@drawable/border"
                 android:textStyle="bold"
                 android:layout_toRightOf="@id/star3"
                 android:layout_marginTop="50dp"
